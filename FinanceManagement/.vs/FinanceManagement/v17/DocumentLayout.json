@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76D5D870-D40B-4878-A0F9-17911A850566}|..\\FinanceTests\\FinanceTests.csproj|c:\\users\\suchintan roy\\source\\repos\\casestudy\\financetests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|c:\\users\\suchintan roy\\source\\repos\\casestudy\\financemanagement\\ifinacerepository\\repository\\userexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|solutionrelative:ifinacerepository\\repository\\userexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|c:\\users\\suchintan roy\\source\\repos\\casestudy\\financemanagement\\financeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|solutionrelative:financeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|c:\\users\\suchintan roy\\source\\repos\\casestudy\\financemanagement\\ifinacerepository\\service\\expensemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|solutionrelative:ifinacerepository\\service\\expensemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|c:\\users\\suchintan roy\\source\\repos\\casestudy\\financemanagement\\ifinacerepository\\model\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|solutionrelative:ifinacerepository\\model\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|c:\\users\\suchintan roy\\source\\repos\\casestudy\\financemanagement\\ifinacerepository\\repository\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|solutionrelative:ifinacerepository\\repository\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|c:\\users\\suchintan roy\\source\\repos\\casestudy\\financemanagement\\ifinacerepository\\repository\\iuserexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|solutionrelative:ifinacerepository\\repository\\iuserexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|c:\\users\\suchintan roy\\source\\repos\\casestudy\\financemanagement\\ifinacerepository\\service\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|solutionrelative:ifinacerepository\\service\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|c:\\users\\suchintan roy\\source\\repos\\casestudy\\financemanagement\\ifinacerepository\\exceptions\\expensenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|solutionrelative:ifinacerepository\\exceptions\\expensenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|c:\\users\\suchintan roy\\source\\repos\\casestudy\\financemanagement\\ifinacerepository\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|solutionrelative:ifinacerepository\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|c:\\users\\suchintan roy\\source\\repos\\casestudy\\financemanagement\\ifinacerepository\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|solutionrelative:ifinacerepository\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|c:\\users\\suchintan roy\\source\\repos\\casestudy\\financemanagement\\ifinacerepository\\repository\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|solutionrelative:ifinacerepository\\repository\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|c:\\users\\suchintan roy\\source\\repos\\casestudy\\financemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|c:\\users\\suchintan roy\\source\\repos\\casestudy\\financemanagement\\ifinacerepository\\util\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|solutionrelative:ifinacerepository\\util\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|c:\\users\\suchintan roy\\source\\repos\\casestudy\\financemanagement\\ifinacerepository\\model\\expensecat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF95078-3D75-4A0D-AF2F-426F2C2438E4}|FinanceManagement.csproj|solutionrelative:ifinacerepository\\model\\expensecat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Repository\\UserService.cs",
+              "RelativeDocumentMoniker": "IFinaceRepository\\Repository\\UserService.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Repository\\UserService.cs",
+              "RelativeToolTip": "IFinaceRepository\\Repository\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:19:10.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserExpense.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Repository\\UserExpense.cs",
+              "RelativeDocumentMoniker": "IFinaceRepository\\Repository\\UserExpense.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Repository\\UserExpense.cs",
+              "RelativeToolTip": "IFinaceRepository\\Repository\\UserExpense.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAwwMQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:33:04.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinanceApp.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\FinanceApp.cs",
+              "RelativeDocumentMoniker": "FinanceApp.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\FinanceApp.cs",
+              "RelativeToolTip": "FinanceApp.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:45:19.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Service\\UserManagement.cs",
+              "RelativeDocumentMoniker": "IFinaceRepository\\Service\\UserManagement.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Service\\UserManagement.cs",
+              "RelativeToolTip": "IFinaceRepository\\Service\\UserManagement.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:35:24.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceTests\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\FinanceTests\\Class1.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceTests\\Class1.cs",
+              "RelativeToolTip": "..\\FinanceTests\\Class1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:52:16.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserExpense.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Repository\\IUserExpense.cs",
+              "RelativeDocumentMoniker": "IFinaceRepository\\Repository\\IUserExpense.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Repository\\IUserExpense.cs",
+              "RelativeToolTip": "IFinaceRepository\\Repository\\IUserExpense.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:41:10.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpenseManagement.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Service\\ExpenseManagement.cs",
+              "RelativeDocumentMoniker": "IFinaceRepository\\Service\\ExpenseManagement.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Service\\ExpenseManagement.cs",
+              "RelativeToolTip": "IFinaceRepository\\Service\\ExpenseManagement.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwLkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:42:09.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Model\\Expense.cs",
+              "RelativeDocumentMoniker": "IFinaceRepository\\Model\\Expense.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Model\\Expense.cs",
+              "RelativeToolTip": "IFinaceRepository\\Model\\Expense.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:45:29.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExpenseNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Exceptions\\ExpenseNotFoundException.cs",
+              "RelativeDocumentMoniker": "IFinaceRepository\\Exceptions\\ExpenseNotFoundException.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Exceptions\\ExpenseNotFoundException.cs",
+              "RelativeToolTip": "IFinaceRepository\\Exceptions\\ExpenseNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:50:52.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Exceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "IFinaceRepository\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Exceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "IFinaceRepository\\Exceptions\\UserNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:58:15.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Model\\User.cs",
+              "RelativeDocumentMoniker": "IFinaceRepository\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Model\\User.cs",
+              "RelativeToolTip": "IFinaceRepository\\Model\\User.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:45:42.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Repository\\IUserService.cs",
+              "RelativeDocumentMoniker": "IFinaceRepository\\Repository\\IUserService.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Repository\\IUserService.cs",
+              "RelativeToolTip": "IFinaceRepository\\Repository\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:18:47.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:02:03.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbConnUtil.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Util\\DbConnUtil.cs",
+              "RelativeDocumentMoniker": "IFinaceRepository\\Util\\DbConnUtil.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Util\\DbConnUtil.cs",
+              "RelativeToolTip": "IFinaceRepository\\Util\\DbConnUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:03:18.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExpenseCat.cs",
+              "DocumentMoniker": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Model\\ExpenseCat.cs",
+              "RelativeDocumentMoniker": "IFinaceRepository\\Model\\ExpenseCat.cs",
+              "ToolTip": "C:\\Users\\SUCHINTAN ROY\\source\\repos\\casestudy\\FinanceManagement\\IFinaceRepository\\Model\\ExpenseCat.cs",
+              "RelativeToolTip": "IFinaceRepository\\Model\\ExpenseCat.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:14:32.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
